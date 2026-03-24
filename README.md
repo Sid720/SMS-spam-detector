@@ -3,7 +3,7 @@
 A real-time Machine Learning web application that classifies SMS messages as **Spam** or **Ham** (Normal) using Natural Language Processing (NLP).
 
 ##  Live Demo
-[Click here to view the live app on Streamlit Cloud](PASTE_YOUR_STREAMLIT_LINK_HERE)
+[Click here to view the live app on Streamlit Cloud](https://sms-spam-detector-2ms2qzwvnjrfq5xkgthahu.streamlit.app)
 
 ##  How it Works
 1. **Data:** Trained on the UCI SMS Spam Collection dataset.
